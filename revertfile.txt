@@ -3,11 +3,3 @@ revert file
 revert file
 revert file
 revert file
-
-revert bye 
-
-
-revert bye 
-
-
-revert bye 
